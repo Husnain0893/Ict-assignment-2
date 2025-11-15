@@ -26,26 +26,26 @@ The design decisions behind EcoDrone include:
 
 
 ### Home Page
-![Home](assets/home.png)
+![Home](home.png)
 
 ### About Section
-![About Section](assets/about%20eco.png)
+![About Section](about%20eco.png)
 
 ### Features Section
-![Features Section](assets/feature.png)
+![Features Section](feature.png)
 
 ### Join Form
-![Join Form](assets/form.png)
+![Join Form](form.png)
 
 ---
 
 ## HTML & CSS Validator Proofs
 
 - **HTML Validator:** [W3C HTML Validator](https://validator.w3.org/)  
-  ![HTML Validation](assets/html%20check.jpg)
+  ![HTML Validation](html%20check.jpg)
 
 - **CSS Validator:** [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)  
-  ![CSS Validation](assets/css.jpg)
+  ![CSS Validation](css.jpg)
 
 ---
 
@@ -54,3 +54,4 @@ The design decisions behind EcoDrone include:
 1. Clone or download the repository.  
    ```bash
    git clone 
+
