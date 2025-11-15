@@ -48,10 +48,10 @@ The design decisions behind EcoDrone include:
   ![CSS Validation](css.jpg)
 
 ---
+## 5. Deployment
 
-## How to Run
+- Hosted on **GitHub Pages**: https://github.com/Husnain0893/Ict-assignment-2.git
+- Static HTML site — added a `.nojekyll` file to disable Jekyll processing.
 
-1. Clone or download the repository.  
-   ```bash
-   git clone 
+
 
