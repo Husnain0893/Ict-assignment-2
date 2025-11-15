@@ -1,0 +1,125 @@
+body {
+    font-family: Arial;
+    background: #0B2B26;
+    color: #F0F3F5;
+}
+
+#container {
+    width: 90%;
+    margin: auto;
+}
+
+#header {
+    background: #114B5F;
+    padding: 25px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.subtitle {
+    opacity: 0.80;
+}
+
+#hero {
+    background: #162C2A;
+    margin-top: 25px;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.hero-left {
+    width: 55%;
+    float: left;
+}
+
+.hero-right {
+    width: 40%;
+    float: right;
+}
+
+.hero-img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+#main {
+    margin-top: 30px;
+}
+
+#sidebar {
+    width: 25%;
+    float: left;
+    background: #162C2A;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+#sidebar a {
+    color: #9BC53D;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#sidebar a:hover {
+    color: #F0F3F5;
+}
+
+#content {
+    width: 70%;
+    float: right;
+}
+
+.box {
+    background: #162C2A;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+.about-img {
+    width: 100%;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+form input,
+form select,
+form textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #456990;
+    background: #0B2B26;
+    color: #F0F3F5;
+    margin-bottom: 12px;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background: #456990;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+
+button:hover {
+    background: #114B5F;
+}
+
+.clear {
+    clear: both;
+}
+
+#footer {
+    text-align: center;
+    padding: 20px;
+    background: #114B5F;
+    margin-top: 25px;
+    border-radius: 10px;
+}
